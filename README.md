@@ -35,7 +35,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Luuzemp14&show_icons=true&theme=default&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luuzemp14&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Luuzemp14&hide_border=true" width="49%" />
 </p>
 
 <p align="left">
