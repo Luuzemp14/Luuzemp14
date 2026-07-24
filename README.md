@@ -47,5 +47,7 @@
 ### 📫 Kontakt
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Luuzemp14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/DEIN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://luuzemp14.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://open.spotify.com/show/38lGf5z2NmuPfbhNLGVNMs"><img src="https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
